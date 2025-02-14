@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "types": [],  // 'global.d.ts' 제거
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["src", "global.d.ts"]  // global.d.ts를 명시적으로 포함
+  }
+  
